@@ -1,0 +1,7 @@
+target
+# Eclipse files
+.classpath
+.project
+.settings
+# Generated file
+jaxb-exception-issue/fruit.xml
